@@ -1,7 +1,7 @@
 # DEEP_LEARNING
 
 <b>
-List of Programs:
+List of Programs:<br><br><br><br>
 1. Basic image processing operations: Histogram equalization, thresholding, edge detection, data augmentation, morphological operations <br>
 2. Implement Perceptron training algorithm to classify flowers in IRIS dataset. <br>
 3. Implement Activation Functions in Neural Networks and analyse their usage. <br>
